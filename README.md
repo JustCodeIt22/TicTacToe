@@ -31,9 +31,9 @@ $ python3 "TicTacToe.py"
 <br>
 
 # Controls 🎮
-[+] You can use mouse for playing.<br>
-[+] For reseting the game press <kbd>R</kbd> on the keyboard.<br>
-[+] Returning to Main Menu Press <kbd>BACKSPACE</kbd> on the keyboard.
+[ + ] Use mouse🖱️ for playing.<br>
+[ + ] For reseting the game press <kbd>R</kbd> ⌨️.<br>
+[ + ] Returning to Main Menu Press <kbd>BACKSPACE</kbd> ⌨️.
 
 <br>
 <br>
