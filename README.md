@@ -7,15 +7,13 @@ It has two versions :-
 
 
 # Tic-Tac-Toe ScreenShots
-## 1. Tic-Tac-Toe(Play with friend)
-![TicTacToe_ss](https://github.com/JustCodeIt22/TicTacToe/assets/134826236/341634a9-d178-4830-a995-a25a70bd86a3)
+![Screenshot 2023-06-29 150136](https://github.com/JustCodeIt22/TicTacToe/assets/134826236/b53fdefe-3d7a-43d5-ac9e-b21898192e5a)
+<br>
+<br>
 
 
-## 2. Tic-Tac-Toe(Play with AI)
-![TicTacToeAI_ss](https://github.com/JustCodeIt22/TicTacToe/assets/134826236/f38c15cf-3007-4e00-bad3-a5fb73604d99)
 
-
-# Installation
+# Installation ℹ️
 ## Steps to installation
 
 #### 1. Install Pygame library using following command.
@@ -28,11 +26,15 @@ $ pip install pygame
 #### 2. Running the application
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 ```sh
-$ python3 "tictactoe(play_with_ai).py"
+$ python3 "TicTacToe.py"
 ```
-feel free to rename the files.
+<br>
 
-# Controls 
-You can use mouse for playing and for reseting the game press <kbd>r</kbd> on the keyboard.
+# Controls 🎮
+[+] You can use mouse for playing.<br>
+[+] For reseting the game press <kbd>R</kbd> on the keyboard.<br>
+[+] Returning to Main Menu Press <kbd>BACKSPACE</kbd> on the keyboard.
 
+<br>
+<br>
 ## 🎉 Happy Playing 🎮 !!🎉
