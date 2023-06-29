@@ -1,8 +1,8 @@
 # Description
 Tic-Tac-Toe game made with python using pygame library.<br/>
 It has two versions :-
-1. Play with Friend🧑🏻.
-2. Play with AI🤖.
+1. Play with Friend 🧑🏻.
+2. Play with AI 🤖.
 <br/>
 
 
