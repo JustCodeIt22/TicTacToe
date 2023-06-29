@@ -1,8 +1,8 @@
 # Description
-This is a normal Tic-Tac-Toe game made with python using pygame library.<br/>
+Tic-Tac-Toe game made with python using pygame library.<br/>
 It has two versions :-
-1. Play with friend.
-2. Play with AI.
+1. Play with Friend🧑🏻.
+2. Play with AI🤖.
 <br/>
 
 
@@ -31,10 +31,10 @@ $ python3 "TicTacToe.py"
 <br>
 
 # Controls 🎮
-[ + ] Use mouse🖱️ for playing.<br>
+[ + ] Use mouse 🖱️ for playing.<br>
 [ + ] For reseting the game press <kbd>R</kbd> ⌨️.<br>
-[ + ] Returning to Main Menu Press <kbd>BACKSPACE</kbd> ⌨️.
+[ + ] For returning to main menu press <kbd>BACKSPACE</kbd> ⌨️.
 
 <br>
 <br>
-## 🎉 Happy Playing 🎮 !!🎉
+## 🎉 Happy Playing 🎮 😊 !!🎉
